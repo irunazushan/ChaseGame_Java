@@ -1,6 +1,6 @@
 ## ChaseGame
 
-Implementation of the console the ChaseGame
+Implementation of the console ChaseGame.
 
 ![game](misc/images/game.PNG)
 
