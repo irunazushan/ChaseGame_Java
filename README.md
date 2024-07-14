@@ -2,7 +2,7 @@
 
 Implementation of the console the ChaseGame
 
-![game](misc/images/game.png)
+![game](misc/images/game.PNG)
 
 **Designations**: <br>
 `o` - position of a player (program user) on the map.<br>
