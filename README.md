@@ -7,7 +7,7 @@ Implementation of the console ChaseGame.
 **Designations**: <br>
 `o` - position of a player (program user) on the map.<br>
 `#` - obstacle<br>
-`x` - enemy (artificial intelligence)<br>
+`x` - enemy <br>
 `O` - target point the player must get to before the enemies reach the player. The player is considered to have reached the target cell if they stepped on its position.
 
 **Game rules**:
@@ -55,5 +55,6 @@ The program mode is passed via the --profile parameter.
 
 to start game:
 
+* cd src
 * bash install.sh
 * java -jar game.jar --enemiesCount=5 --wallsCount=50 --size=20 --profile=production
